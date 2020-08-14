@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    background: #ffa141;
+    background: -moz-linear-gradient(top, #ffa141 0%, #f1504f 100%);
+    background: -webkit-linear-gradient(top, #ffa141 0%, #f1504f 100%);
+    background: linear-gradient(to bottom, #ffa141 0%, #f1504f 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#ffa141', endColorstr='#f1504f', GradientType=0);
+}
